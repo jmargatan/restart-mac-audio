@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 #title        : Restart Audio.command
 #description  : Restart Mac audio controller.
-#author		    : @jmargatan
-#usage		    : ./Restart\ Audio.command
+#author       : @jmargatan
+#usage        : ./Restart\ Audio.command
 #notes        : Needs pgrep and sudo access
 
 CURRENT_COREAUDIOD_PID=$(pgrep coreaudiod)

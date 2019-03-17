@@ -10,7 +10,7 @@ $ ps -ef | grep '[c]oreaudiod'
 ```
 
 # How to use
-1. Copy `Restart Audio.command` to your favorite place, e.g. desktop, `bin` directories, etc.
+1. Copy [Restart Audio.command](Restart%20Audio.command) to your favorite place, e.g. desktop, `bin` directories, etc.
 2. Execute by double-clicking the command, running from Terminal, or Mac Spotlight (press Cmd+Space).
 
 # How it looks
